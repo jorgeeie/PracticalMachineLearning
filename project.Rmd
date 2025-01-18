@@ -1,6 +1,6 @@
 ---
 title: "Practical Machine Learning Course Project"
-subtitle: "Predicting the manner people excercise"
+subtitle: "Predicting the manner people exercise"
 author: "Jorge E. Ibarra-Esquer"
 date: "2025-01-15"
 output: html_document
